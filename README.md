@@ -3,9 +3,9 @@
  - d’être plus efficace dans la gestion des commandes, de leur réception à leur livraison en passant par leur préparation.
  - de suivre en temps réel les commandes passées et en préparation.
  - de suivre en temps réel le stock d’ingrédients restants pour savoir quelles pizzas sont encore réalisables
-  de proposer un site Internet pour que les clients  puissent 
+ - de proposer un site Internet pour que les clients  puissent:
 
- 	- passer leurs commandes, en plus de la prise de commande par téléphone ou sur place.
-	 - payer en ligne leur commande s’ils le souhaitent – sinon, ils paieront directement à la		 livraison.
+ 	 - passer leurs commandes, en plus de la prise de commande par téléphone ou sur place.
+	 - payer en ligne leur commande s’ils le souhaitent – sinon, ils paieront directement à la livraison.
 	 - modifier ou annuler leur commande tant que celle-ci n’a pas été préparée.
 	 - de proposer un aide mémoire aux pizzaiolos indiquant la recette de chaque pizza.
